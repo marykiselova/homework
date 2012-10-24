@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.1.0.201209120646-M1]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[true]]></enableImports>
+	<configs>
+		<config>src/test/resources/lv/kiselova/homework/OrderPersistenceTests-context.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-model.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
